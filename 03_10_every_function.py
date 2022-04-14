@@ -5,10 +5,7 @@
 # Write a program that creates a list containing these items
 # and then uses each function introduced in this chapter at least once:
 
-# Functions to use: 7. Use del statement to remove item(s) from list at index location, 8. Remove last item from
-# list using pop, save value, and re-use, 9. Pop specific item using index location, 10. Remove item(s) by value (name), 11.
-# Use sort to change order permanently, 12. Reverse sort, 13. Sorted to rearrange but not perm., 13. Reverse sorted, 14. Reverse
-# method, 14. Use len to find length of list.
+# Functions to use:
 
 # 1. Print indexed items from list
 games = ["metal gear solid", "final fantasy 12", "advance wars", "nier", "talos principle"]
@@ -39,4 +36,46 @@ print(games)
 games.insert(2, "street fighter iii: 3rd strike")
 print(games)
 
-# STILL NEED TO FINISH THIS EXERCISE
+# 7. Use del statement to remove item(s) from list at index location
+del games[4]
+print(games)
+
+# 8. Remove last item from list using pop, save value, and re-use
+popped_game = games.pop()
+print(games)
+print(popped_game)
+games.append(popped_game)
+print(games)
+
+# 9. Pop specific item using index location
+games.pop(1)
+print(games)
+games.append("super monkey ball")
+print(games)
+
+# 10. Remove item(s) by value (name)
+games.remove ("soul calibur")
+print(games)
+
+# 11. Use sort to change order permanently
+games.sort()
+print(games)
+
+# 12. Reverse sort
+games.sort(reverse = True)
+print(games)
+
+# 13. Sorted to rearrange but not permanent
+games = ["metal gear solid", "final fantasy 12", "advance wars", "nier", "talos principle"]
+print(sorted(games))
+
+# 13. Reverse sorted
+print(sorted(games, reverse=True))
+
+# 14. Reverse method
+games.reverse()
+print(games)
+
+# 14. Use len to find length of list
+games = ["metal gear solid", "final fantasy 12", "advance wars", "nier", "talos principle"]
+print(len(games))
