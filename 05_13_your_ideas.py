@@ -15,4 +15,8 @@
 
 # 1. Weather data; in particular, extreme weather events.
 
-# 1. Applications: Audio sharing website.
+# 1. Applications: Audio sharing website with file-uploading and social functionality.
+
+# Languages to learn: Python, C++, Java, JavaScript.
+
+# Software / apps to learn: Blender, Unreal, Procreate, Houdini...
