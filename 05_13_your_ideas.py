@@ -20,3 +20,5 @@
 # Languages to learn: Python, C++, Java, JavaScript.
 
 # Software / apps to learn: Blender, Unreal, Procreate, Houdini...
+
+# YouTube videos
