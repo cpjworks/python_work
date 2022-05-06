@@ -12,13 +12,14 @@
 # 1. Rez-style on-rails shooting game.
 # 2. Lemming-style game with cute Nier robots.
 # 3. Puyo-Puyo-style falling pieces games.
+# 4. Weather data; in particular, extreme weather events.
+# 5. Applications: Audio sharing website with file-uploading and social functionality.
 
-# 1. Weather data; in particular, extreme weather events.
+# Languages to learn: Python, C++, Java, JavaScript. Rust? Go?
 
-# 1. Applications: Audio sharing website with file-uploading and social functionality.
+# Software / apps to learn: Blender, Unreal, Houdini; Procreate, Nomad Sculpt.
 
-# Languages to learn: Python, C++, Java, JavaScript.
+# Possible social media avenues for building online footprint / networking:
+# YouTube, Twitch, Tiktok.
 
-# Software / apps to learn: Blender, Unreal, Procreate, Houdini...
-
-# YouTube videos
+# Program other things, such as Raspberry Pi.
